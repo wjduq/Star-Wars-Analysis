@@ -8,3 +8,5 @@ matches = re.findall(newHopePattern, newHopeScript.read())
 print(matches)
 
 newHopeScript.read()
+
+#This is a test
