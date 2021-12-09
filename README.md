@@ -1,3 +1,3 @@
-# Star-Wars-Analysis
+# Star Wars Data Analysis
 
 Data Systems Project
